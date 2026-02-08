@@ -36,15 +36,15 @@ To achieve that, I need to:
 
 # Local Docusaurus setup
 
-- cd into the directory where you want to have your Docusaurus project set up
+- `cd` into the directory where you want to have your Docusaurus project set up
 - initialize your Docusaurus project by running `npx create-docusaurus@latest my-project classic`
-- cd into the newly created project folder
+- `cd` into the newly created project folder
 - run `npm start` to start the local development server
 - your website is now running at http://localhost:3000/
-- open the project folder inside your favorite IDE
+- open the project folder from your favorite IDE
 
 # Deploy to GitHub pages
 
 
 
-12/89
+20/89
