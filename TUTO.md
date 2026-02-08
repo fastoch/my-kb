@@ -1,7 +1,7 @@
 # Resources
 
 - Docusaurus v3.5 - Install, Customize, and Deploy: https://www.youtube.com/watch?v=QfqLQwPxFWw
-- https://docusaurus.io/
+- Official website: https://docusaurus.io/
 
 Latest version of Docusaurus is 3.9 (February 2026)
 
@@ -40,11 +40,11 @@ To achieve that, I need to:
 - initialize your Docusaurus project by running `npx create-docusaurus@latest my-project classic`
 - cd into the newly created project folder
 - run `npm start` to start the local development server
-- your website is running at http://localhost:3000/
+- your website is now running at http://localhost:3000/
 - open the project folder inside your favorite IDE
 
 # Deploy to GitHub pages
 
 
 
-11/89
+12/89

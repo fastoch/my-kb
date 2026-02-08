@@ -1,3 +1,9 @@
+# Context
+
+This is the default README created when initializing this Docusaurus project.  
+My goal is to have a free online solution for hosting my personal knowledge base (markdown files).  
+You can find details in the TUTO.md file.
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
