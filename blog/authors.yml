@@ -10,6 +10,18 @@ yangshun:
     github: yangshun
     newsletter: https://www.greatfrontend.com
 
+fastoch:
+  name: Fabrice Pustoch
+  title: IT Support Specialist, Junior DevOps Engineer
+  url: https://linkedin.com/in/fastoch
+  image_url: https://media.licdn.com/dms/image/v2/D4E03AQFZmB8FQKF1AA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1702581796507?e=1772064000&v=beta&t=IaWui8tUP3RDAOVcS_YcI6YDn4nndZ6SJuRuZa3KHWk
+  page: true
+  socials:
+    x: fastoch82
+    linkedin: fastoch
+    github: fastoch
+    email: fastoch@ik.me
+
 slorber:
   name: Sébastien Lorber
   title: Docusaurus maintainer

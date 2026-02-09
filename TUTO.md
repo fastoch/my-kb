@@ -43,8 +43,13 @@ To achieve that, I need to:
 - your website is now running at http://localhost:3000/
 - open the project folder from your favorite IDE
 
+# Understanding the structure of a Docusaurus project
+
+
+
+17/89
+
 # Deploy to GitHub pages
 
 
 
-20/89
