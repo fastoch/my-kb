@@ -45,9 +45,29 @@ To achieve that, I need to:
 
 # Understanding the structure of a Docusaurus project
 
+By default, we have a blog folder and a docs folder.  
+These folders will host our blog posts and our documents, in Markdown or MDX format.  
+MDX is a superset of Markdown, which allows us to use JSX and other React features in our Markdown files.  
+
+## Create a blog post
+
+We can copy an existing blog post from the blog folder and paste it into the same folder.  
+The blog post will be automatically added to the blog index page.  
+
+Then, we can customize this post by editing the Markdown file:
+- The file name contains the posting date
+- The slug inside the Markdown file is used to generate the blog post URL
+- The title inside the Markdown file is used to generate the blog post title
+- authors and tags specified in the markdown file are defined in the `authors.yml` and `tags.yml` files
+
+## Truncate comment
+
+Inside the .md and .mdx files of the blog folder, we use a special comment to truncate the content of the blog posts.  
+On the http://localhost:3000/blog page, we don't want to show the whole content of our blog posts.  
 
 
-17/89
+
+18/89
 
 # Deploy to GitHub pages
 
